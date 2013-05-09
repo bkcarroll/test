@@ -1,7 +1,8 @@
 ﻿Module Module1
 
   Sub Main()
-    Console.WriteLine("Test2")
+    Console.WriteLine("Test3")
+    Console.WriteLine("Branch 1, I think!")
     Console.ReadLine()
   End Sub
 
